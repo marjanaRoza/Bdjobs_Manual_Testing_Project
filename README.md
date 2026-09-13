@@ -19,7 +19,7 @@ Comprehensive manual testing portfolio for an online job marketplace
 
 ## 🛠️ Tools Used
 
-- Microsoft Excel – Test cases, bug reports, test execution & metrics
+- Google Spreadsheet – Test cases, bug reports, test execution & metrics
 - Google Chrome – Web application testing
 - GitHub – Project documentation & portfolio
 
